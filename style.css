@@ -105,6 +105,12 @@ body{
     .second-container, .third-container{
         width: 50%;
     }
+    .second-container{
+        border-radius: 0 0 0 5px;
+    }
+    .third-container{
+        border-radius: 0 0 5px 0;
+    }
     .sub{
         width: 70%;
         margin: 10% auto    ;
